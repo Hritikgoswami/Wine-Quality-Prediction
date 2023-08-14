@@ -26,7 +26,7 @@ Step into the enchanting world of predicting wine quality – a challenge that h
 
 ## Vintage Dataset
 
-Our canvas is painted with data from [analytical dataset](https://github.com/KhushiiKumar/Wine-Quality-Prediction/blob/main/Wine-Quality-Dataset.csv), housing a splendid collection of red and white wines. Each bottle is an artwork, characterized by a symphony of attributes ranging from acidity and residual sugar to alcohol content. These attributes lay the foundation for the qualitative journey, as wines are rated on a scale from 1 to 10.
+Our canvas is painted with data from [analytical dataset](https://github.com/Hritikgoswami/Wine-Quality-Prediction/blob/main/Wine-Quality-Dataset.csv), housing a splendid collection of red and white wines. Each bottle is an artwork, characterized by a symphony of attributes ranging from acidity and residual sugar to alcohol content. These attributes lay the foundation for the qualitative journey, as wines are rated on a scale from 1 to 10.
 
 Input variables:  
 
@@ -43,7 +43,7 @@ Input variables:
 - **alcohol:** Volume of alcohol in %
 - **quality (target):** 1-10 value
 
-### Classification criteria
+Classification criteria
 The scores for quality(x) are set between 0-10 as follows:  
 **Bad:** 0<=x<=4   
 **Medium:** 5,6  
