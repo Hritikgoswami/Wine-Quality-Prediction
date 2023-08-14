@@ -22,7 +22,7 @@ Predicting the quality of wine on a scale of 0–10 when given a set of features
 
 Step into the enchanting world of predicting wine quality – a challenge that has enthralled both oenophiles and data sorcerers. In this venture, we harness the prowess of data analysis and predictive modeling to decipher the enigma behind wine quality assessment. Join us in uncovering the correlations that influence the subjective perception of wine excellence.
 
-[This project](https://github.com/Hritikgoswami/Wine-Quality-Prediction) is a case study for modelling taste preferences based on the [analytical dataset](https://github.com/KhushiiKumar/Wine-Quality-Prediction/blob/main/Wine-Quality-Dataset.csv) that we have from physiochemical tests of wines.
+[This project](https://github.com/Hritikgoswami/Wine-Quality-Prediction) is a case study for modelling taste preferences based on the [analytical dataset](https://github.com/Hritikgoswami/Wine-Quality-Prediction/blob/main/Wine-Quality-Dataset.csv) that we have from physiochemical tests of wines.
 
 ## Vintage Dataset
 
