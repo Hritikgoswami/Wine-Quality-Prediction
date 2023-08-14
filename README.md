@@ -68,16 +68,20 @@ pip install -r requirements.txt
 ```
 
 ## The Alchemy - Model
-![image](https://github.com/Hritikgoswami/Wine-Quality-Prediction/assets/84679973/41d6998e-e9d1-406a-b2ec-a81a2d523a5a)
 
-Behold the cauldron that shapes the future! Our [Random Forest](https://www.ibm.com/topics/random-forest#:~:text=Random%20forest%20is%20a%20commonly,both%20classification%20and%20regression%20problems.) is the ancient recipe we employ to predict the essence of wine quality. Crafted and honed through the ages, it is brought to life through the essence drawn from the dataset.
-
-## Tasting the Results
+For making automated decisions on model selection we need to quantify the performance of our model and give it a score. Therefore, accuracy rate of the model is checked on each prediction. Here, [Random Forest](https://www.ibm.com/topics/random-forest#:~:text=Random%20forest%20is%20a%20commonly,both%20classification%20and%20regression%20problems.) has the maximum accuracy rate.
 
 ![image](https://github.com/Hritikgoswami/Wine-Quality-Prediction/assets/84679973/f08515c7-58c7-4b25-bdcf-6ba08ac40edc)
 
+Behold the cauldron that shapes the future! Our [Random Forest](https://www.ibm.com/topics/random-forest#:~:text=Random%20forest%20is%20a%20commonly,both%20classification%20and%20regression%20problems.) is the ancient recipe we employ to predict the essence of wine quality. Crafted and honed through the ages, it is brought to life through the essence drawn from the dataset.
 
-For making automated decisions on model selection we need to quantify the performance of our model and give it a score. Therefore, accuracy rate of the model is checked on each prediction. Here, **Random Forest** has the maximum accuracy rate.
+
+## Tasting the Results
+
+
+![image](https://github.com/Hritikgoswami/Wine-Quality-Prediction/assets/84679973/0cd6dd84-4611-4d9d-b186-69e15abf020c)
+
+Tasting the outcome: 84.3% accuracy achieved. Our model elegantly captures wine quality, a testament to data's subtle dance with flavors. Cheers to predictive prowess! 🍷📊🎉
 
 ## Raising a Toast to Contributors
 
