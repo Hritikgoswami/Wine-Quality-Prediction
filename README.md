@@ -43,7 +43,8 @@ Input variables:
 - **alcohol:** Volume of alcohol in %
 - **quality (target):** 1-10 value
 
-Classification criteria
+Classification criteria:
+
 The scores for quality(x) are set between 0-10 as follows:  
 **Bad:** 0<=x<=4   
 **Medium:** 5,6  
