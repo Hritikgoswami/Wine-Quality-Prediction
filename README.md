@@ -85,7 +85,7 @@ Tasting the outcome: 84.3% accuracy achieved. Our model elegantly captures wine 
 
 ## Raising a Toast to Contributors
 
-🎉 We raise our glasses to those who seek to enrich this expedition! Contributions, feedback, and new elixirs are always welcome. Uncork ideas through issues or weave new enchantments with pull requests. The scrolls in [contribution guidelines](CONTRIBUTING.md) hold the map to our hidden treasures.
+🎉 We welcome contributions from the community! If you find a bug or have an enhancement in mind, please create an issue in the repository. If you'd like to contribute code, fork the repository, make your changes, and submit a pull request.
 
 ---
 
