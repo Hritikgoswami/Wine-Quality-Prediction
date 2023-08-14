@@ -13,7 +13,6 @@ Predicting the quality of wine on a scale of 0–10 when given a set of features
 - 🍇 [Introduction](#introduction)
 - 🍷 [Vintage Dataset](#dataset)
 - 🚀 [Embarking the Journey](#getting-started)
-- ⚙️ [Unveiling the Magic](#usage)
 - 🧪 [The Alchemy - Model](#model)
 - 📈 [Tasting the Results](#evaluation)
 - 🍻 [Raising a Toast to Contributors](#contributing)
@@ -43,6 +42,7 @@ Input variables:
 - **alcohol:** Volume of alcohol in %
 - **quality (target):** 1-10 value
 
+
 Classification criteria:
 
 The scores for quality(x) are set between 0-10 as follows:  
@@ -55,22 +55,22 @@ The scores for quality(x) are set between 0-10 as follows:
 As you step onto this voyage of discovery, here's your compass:
 
 1. 🌐 Clone this repository onto your machine.
-2. 🧩 Install the spells we'll need - just cast `pip install -r requirements.txt`.
-3. 📦 Secure the dataset from [source link here] and place it within the `data` treasure chest.
-4. 🪄 Invoke the `preprocess_data.py` spell to cleanse and prepare the data.
-5. 🌟 Unleash the magic of `train_model.py` to train the predictive model.
-6. 🔮 Witness the future with `predict.py` as your guide.
 
-## Unveiling the Magic
+   
+```bash
+git clone https://github.com/Hritikgoswami/Wine-Quality-Prediction.git
+```
 
-- Alter the future by tweaking the `config.yaml` cauldron for hyperparameters and model essence.
-- Whisper to the spirits with `python preprocess_data.py` to prepare the data for revelation.
-- Brew the potion of wisdom with `python train_model.py` to train the model.
-- Peer through the crystal ball using `python predict.py` to divine predictions for new wine experiences.
+2. 🧩 Install the spells we'll need - just cast.
+
+```bash
+pip install -r requirements.txt
+```
 
 ## The Alchemy - Model
+![image](https://github.com/Hritikgoswami/Wine-Quality-Prediction/assets/84679973/41d6998e-e9d1-406a-b2ec-a81a2d523a5a)
 
-Behold the cauldron that shapes the future! Our [describe your model architecture here, e.g., neural network] is the ancient recipe we employ to predict the essence of wine quality. Crafted and honed through the ages, it is brought to life through the essence drawn from the dataset.
+Behold the cauldron that shapes the future! Our [Random Forest]() is the ancient recipe we employ to predict the essence of wine quality. Crafted and honed through the ages, it is brought to life through the essence drawn from the dataset.
 
 ## Tasting the Results
 
